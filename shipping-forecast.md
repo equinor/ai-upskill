@@ -10,7 +10,7 @@ Given a set of features about various items, including quantity, origin postcode
 
 ## Dataset
 
-The following features are present:
+The data was extracted from SAP. The following features are present:
 
 - `IDX` &mdash; Record index.
 - `MATNR_TEXT` &mdash; Material text description
