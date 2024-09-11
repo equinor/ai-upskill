@@ -1,6 +1,6 @@
 # Safety moment
 
-_Matt Hall, TDI EDT DSD_
+_Matt Hall, TDI EDT DSD, `mtha@equinor.com`_
 
 Think back to the last time you flew in a plane. Maybe it was earlier this morning.
 
