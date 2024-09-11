@@ -4,9 +4,16 @@ A machine learning challenge aimed at data scientists, developers, and other tec
 
 ## Task
 
+
 ## Dataset
 
+
 ## Evaluation app
+
+A small Python FastAPI application facilitates the scoring of entries and provides a simple leaderboard. Teams interact with the API either via the Swagger docs, or in code using Python `requests` or similar. There is no Python API for taling to the web app, but this might be a cool idea.
+
+It currently lives in [a private repo](https://github.com/scienxlab/adjudicator).
+
 
 ## Formats
 
