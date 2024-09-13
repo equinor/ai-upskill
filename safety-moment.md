@@ -18,19 +18,8 @@ The arrival of generative AI, especially the release (or detonation?) of ChatGPT
 
 Let's look at `chat.equinor.com`. Has anyone **never** used this tool? Feel free to follow along.
 
-Let's ask a question: "Tell me about Equinor." The answer is quite reasonable. There is no doubt that this technology is remarkable.
+_At this point, you can check out the app, explain the **Information** page to people (plain ChatGPT, no Equinor information, infosec rules, etc), and give some examples. Or you can play [The Hallucination Game](./hallucination-game.md)._
 
-I have a follow-up question, "Why did Statoil get out of the whale oil business in 1987?". The model will almost always reply with a completely made up story (Statoil was never in the whale oil business), revealing an error mode called **hallucination**. The justification can be quite elaborate. As usual, it is eloquent and very believable.
-
-In my experience, the model tends to hallucinate when asked leading questions about things that are not true, or misleading questions about things that are. It's a fun group exercise to come up with one about Equinor or about your city.
-
-Here are some others:
-
-- `Can I drink molten ice?` (that is, water)
-- `Why is Mercury the closest planet to Jupiter, on average?` (this is true for all of the planets)
-- `What are Equinor's brand colours?`
-- `Why did Buzz Aldrin bring a Buzz Lightyear toy on Apollo 11?`
-- `Tell me something amazing about the recreational facilities on the Stavanger Field platform.`
 
 ## Resources
 
