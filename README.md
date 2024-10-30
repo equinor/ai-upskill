@@ -1,6 +1,12 @@
 # ai-upskill-events
 
-We have been running and thinking about a few different events:
+We have been running and thinking about a few different events, described briefly below.
+
+See also:
+
+- [`promptly`](https://github.com/equinor/promptly) for more on pomrpting and pitfalls in generative AI.
+- [`ml-pifalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in machine learning, another series of events.
+
 
 ## Synchronous upskill events
 
@@ -12,6 +18,7 @@ We have been running and thinking about a few different events:
 - Course
 - Safety moment
 
+
 ## Asynchronous upskill tools
 
 - Website 'hub' or portal
@@ -20,6 +27,7 @@ We have been running and thinking about a few different events:
 - Social media, eg Viva Engage
 - Wiki content
 - Forum
+
 
 ## Elements of events
 
@@ -33,6 +41,7 @@ We have been running and thinking about a few different events:
 - Slides
 - Q&A w facilitators
 - Discussion in the room (generally not ideal)
+
 
 ## Design considerations
 
