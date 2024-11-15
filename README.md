@@ -2,12 +2,6 @@
 
 We have been running and thinking about a few different events, described briefly below.
 
-See also:
-
-- [`promptly`](https://github.com/equinor/promptly) for more on prompting and pitfalls in generative AI.
-- [`llm-engineering-101`](https://github.com/equinor/llm-engineering-101) for a short workshop aimed at getting developers up to speed.
-- [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in machine learning, another series of events.
-
 
 ## Synchronous upskill events
 
@@ -62,3 +56,10 @@ See also:
   - Smaller groups, under 40 people
   - Leader groups
   - Individuals
+
+
+## See also
+
+- [`promptly`](https://github.com/equinor/promptly) for more on prompting and pitfalls in generative AI.
+- [`llm-engineering-101`](https://github.com/equinor/llm-engineering-101) for a short workshop aimed at getting developers up to speed.
+- [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in machine learning, another series of events.
