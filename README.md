@@ -1,61 +1,11 @@
 # ai-upskill-events
 
-We have been running and thinking about a few different events, described briefly below.
+We have been running and thinking about a few different events, workshops, presentations, etc. They are described in this repo.
 
-
-## Synchronous upskill events
-
-- Presentations (live or remote)
-- Workshops
-- Webinars (online only, repeatable, final one recorded)
-- Townhalls
-- Seminar or conference (group share)
-- Course
-- Safety moment
-
-
-## Asynchronous upskill tools
-
-- Website 'hub' or portal
-- Learning path or online learning workflow
-- Published media, eg blog or Intranet article
-- Social media, eg Viva Engage
-- Wiki content
-- Forum
-
-
-## Elements of events
-
-- Survey, eg Menti
-- Whiteboard or iPad drawing
-- Presentation
-- Slides (minimal) or websites etc
-- Demo (live prompt or live code)
-- Games, eg Say What You See, Play a Game, etc
-- At-table conversation (eg brainstorm, capture w stickies)
-- Slides
-- Q&A w facilitators
-- Discussion in the room (generally not ideal)
-
-
-## Design considerations
-
-- Sync or async, and duration 
-- Overhead or prep time
-- Depth / technical level
-- Purpose of event:
-  - Knowledge and understanding
-  - Mythbusting
-  - Pitfalls
-  - Reassurance or real talk about staffing levels
-  - Rules and compliance
-  - Intuition building
-- Learner segment and reach:
-  - Whole company
-  - Large groups, eg about 40+
-  - Smaller groups, under 40 people
-  - Leader groups
-  - Individuals
+- [Sessions](./sessions/README.md) describes the different kinds of experiences.
+- [Games](./games/README.md) records various fun learning activities we have tried.
+- [Exercises](./exercises/README.md) provides more structured learning activities.
+- [Assets](./assets) contains some other resources we use in workshops.
 
 
 ## See also
@@ -63,3 +13,7 @@ We have been running and thinking about a few different events, described briefl
 - [`promptly`](https://github.com/equinor/promptly) for more on prompting and pitfalls in generative AI.
 - [`llm-engineering-101`](https://github.com/equinor/llm-engineering-101) for a short workshop aimed at getting developers up to speed.
 - [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in machine learning, another series of events.
+
+---
+
+&copy; 2024 Equinor, AI Upskill | Licensed CC BY, please share this work.
