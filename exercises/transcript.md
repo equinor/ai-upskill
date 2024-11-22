@@ -67,3 +67,7 @@ Details of the participants and the agenda are set out below, as agreed at the c
 |                        | 12:45 - 14:00 | Strategic planning      |
 |                        | 14:00 - 14:15 | Break                   |
 |                        | 14:15 - 15:00 | Continue, wrap-up (Jesse) |
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

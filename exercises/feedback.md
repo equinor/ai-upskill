@@ -11,3 +11,7 @@ Challenge the group to perform some typical line manager tasks, for example here
 - Ask for strengths and weaknesses.
 - Ask for 3 quotes that praise and 3 that constructively criticize the employee.
 - Ask the LLM to review the quality of the feedback.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

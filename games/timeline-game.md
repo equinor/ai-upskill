@@ -45,3 +45,7 @@ A set of cards with major events in AI's history form the basis of a game simila
 ### Fortsett spillet
 - Nå tar Lag I det øverste kortet fra kortstokken og gjentar.
 - Målet er å samle flest kort før vi stopper.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

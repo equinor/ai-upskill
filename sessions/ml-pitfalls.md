@@ -13,3 +13,7 @@ Elements of the workshop can be taught in 30 minutes or so.
 ## Material
 
 Please see the [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) repository for the workshop content and further details about running the workshop.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

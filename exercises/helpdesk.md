@@ -10,3 +10,7 @@ Questions to get at:
 - Which tasks is the LLM good at in a zero shot sense? 
 - Can the LLM write code that runs and answers the questions in a better way?
 - How could LLM insights augment the UI in the hekp system?
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

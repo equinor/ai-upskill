@@ -20,3 +20,7 @@ Hand something out at the start, eg some stickers, or a cheatsheet (see [this re
 - **Exercise** &mdash; do a group exercise getting the group to work in pairs on a task. Make it as relevant to the audience as possible. Examples: get a group of managers to try summarizing some made-up employee feedback, or to make a set of development goals. Get a group from HR to explore bias issues, eg by making lists of imaginary people in various occupations. Get them to start with a simple prompt, critique the result, and iteratively improve the prompt. Review the task at the end. Show them a prompt you made earlier.
 - **Q&A** &mdash; make sure there is some time for at least 3 or 4 questions, or leave time between segments. There are always questions; try asking "What questions do you have?" rather than "Any questions?".
 - **Discussion** &mdash; provoke the group with a question, eg "What opportunities do you see?" or "What's the one thing you wish you could do with AI?". Use Mentimeter for responses if you want to capture them or have the group hear them all.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

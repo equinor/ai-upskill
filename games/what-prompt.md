@@ -30,3 +30,7 @@ If your guess is incorrect, the app will show you how many of the five elements 
 [The `what-prompt` code](https://github.com/scienxlab/what-prompt) was written by Matt and the repo can be found on his GitHub organization, Scienxlab.
 
 It's a JavaScript front-end-only game. The only need for a server is to retain the OpenAI API key; if you point the app at an open or local LLM service, eg behind a firewall, you could serve the app statically.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

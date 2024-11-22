@@ -28,4 +28,7 @@ Here are some others:
 - `What are Equinor's brand colours?`
 - `Why did Buzz Aldrin bring a Buzz Lightyear toy on Apollo 11?`
 - `Tell me something amazing about the recreational facilities on the Stavanger Field platform.`
-  
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

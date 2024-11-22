@@ -18,3 +18,7 @@ Hand something out at the start, eg some stickers, or a cheatsheet (see [this re
 - **Discussion** &mdash; if you want, you can provoke the group with a question. Use Mentimeter for responses if you want to capture them or have the group hear them all.
 
 I also like to leave the group with a challenge or homework, eg gathering Q&A pairs for evaluation, or designing a prompt for some specific task. And maybe give them some places to go to learn more if they want.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

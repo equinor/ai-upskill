@@ -1,4 +1,4 @@
-# Shipping Forecast
+# Shipping Forecast hackathon
 
 A machine learning challenge aimed at data scientists, developers, and other technical people. It can be run as a slow-motion data science contest, or a short hackathon, or a combination of these.
 
@@ -77,3 +77,7 @@ When we run it again we will stick to one scoring metric, and allow teams more t
 ### Other formats
 
 You could also run the contest asynchronously. I think it's hard enough to do well that the contest could last at least a couple of weeks.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

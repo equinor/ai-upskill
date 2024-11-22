@@ -26,3 +26,7 @@ _At this point, you can check out the app, explain the **Information** page to p
 - [Equinor's Responsible AI team](https://statoilsrm.sharepoint.com/sites/ResponsibleAI2) is based in Trondheim. Get in touch with them!
 - If you're interested in learning more about the risks associated with LLMs and generative AI, [this video from Phaedra Boinodiris at IBM](https://www.youtube.com/watch?v=r4kButlDLUc) is informative and technical but totally approachable. IBM's other videos are also great.
 - If you're looking for more education content or need training for your team, get in touch with [AI Upskill](https://statoilsrm.sharepoint.com/sites/DigitalAcademy2/SitePages/AI-Upskill.aspx).
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

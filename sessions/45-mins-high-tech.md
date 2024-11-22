@@ -17,3 +17,7 @@ Hand something out at the start, eg some stickers, or some other reminder of the
 - **Q&A** &mdash; make sure there is some time for at least 3 or 4 questions, or leave time between segments. There are always questions; try asking "What questions do you have?" rather than "Any questions?".
 
 Sum up to remind people of the safety highlight, the essence of AI, and the image generation.
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

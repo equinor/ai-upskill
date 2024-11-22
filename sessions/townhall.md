@@ -38,3 +38,7 @@ The presentation typically took 35 minutes or so, leaving about 15 minutes for a
 ## Reference
 
 - [Article in Digi.no](https://www.digi.no/artikler/equinor-vil-ha-alle-25-000-ansatte-med-pa-ki-toget/547983https://www.digi.no/artikler/equinor-vil-ha-alle-25-000-ansatte-med-pa-ki-toget/547983)
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

@@ -240,3 +240,7 @@ Player 1 names a movie, player 2 names an actor in the movie, then player 1 name
 - Keep score
 - Add hints
 - Get back to the original movie
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.

@@ -19,3 +19,7 @@ Our results:
 
 - The chocolate cake tasted good but was rather dry. The AI added cardamom and cinnamon (as a Norwegian twist), but misjudged the quantities. No-one was fooled, and everyone preferred the hotel's recipe.
 - The smoothie was quite different from the hotel's smoothie, again containing cinnamon as well as coconut milk, vanilla and blueberries. About 50% of people preferred it to the hotel's simpler recipe, and about 65% of people identified it correctly. One person said, "It was too expensive-tasting to be made by a commercial caterer".
+
+---
+
+&copy; 2024 Equinor | Licensed CC BY, please share this work.
