@@ -1,6 +1,8 @@
-# Meeting transcript summary
+# Transcript exercise
 
 The file [transcript.txt](./transcript.txt) is an imaginary conversation between two people arranging a meeting.
+
+**NB** the conversation in [transcript_P.txt](./transcript_P.txt) contains a prompt injection (to help make another point about security). Use this one if you want to get into that.
 
 Give the file (or this URL) to the workshop participants and set them the challenge below.
 
