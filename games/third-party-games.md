@@ -5,6 +5,8 @@ Others have created machine learning and artificial intelligence games. Here are
 - [**Google's _Say What You See_**](https://g.co/arts/CcxCfSar2XWWKxMZ7) &mdash; a gentle introduction to prompt engineering. See below for a full description.
 - [**Sightengine's _AI or Not?_**](https://sightengine.com/ai-or-not) &mdash; a simple game: look at an image and choose **AI** or **Not AI**. If you are correct, you score a point. You can stop at any point, but after every 25 images you get the opportunity to see how your stats compare to others, as well as your accuracy on each class of image (it would be even cooler if you could see your precision and recall!). The game could lead to a discussion on what gives an AI image away, how AI images should be labeled (should the prompt be included?), and what creativity means today.
 - [**Lakera's _Gandalf_**](https://gandalf.lakera.ai/intro) &mdash; a gentle introduction to jailbreaking and prompt engineering. The object is to extract a secret from the AI; it starts easy and gets very difficult. Great for nerdy groups with high digital literacy, especially those interested in cybersecurity.
+- [**PromptWars.io:**](https://promptwars.io/) &mdash; virtual head-to-head text-to-text prompt contest. Players are challenged to get an AI to reproduce their own prompt as output from a prompt combining the two players' separate prompts. This game is quite advanced and a bit 'meta'.
+
 
 ## Say What You See
 
