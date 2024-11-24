@@ -2,6 +2,14 @@
 
 Over a period of several weeks, a group of technologists took an AI townhall event on the road, visiting Bergen, Oslo, Stavanger, Trondheim, Stjoerdal, and Harstad and reaching more than 3000 employees.
 
+## Purpose
+
+- To raise awareness of and provoke curiosity in artificial intelligence and machine learning across the entire business.
+- To give everyone the opportunity to meet and ask questions of several people in the artifical intelligence community.
+- To reassure people that Equinor's interest to artificial inteligence is not motivated by downsizing but by excellence, scale, and capability.
+- To communicate that Equinor has many active projects in artificial intelligence and machine learning, and has several successful projects in production.
+- To ensure that people have another chance to hear our messages about safety, security and ethics in artificial intelligence.
+
 
 ## Team
 
