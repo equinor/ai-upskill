@@ -6,10 +6,10 @@
 
 In each case, the following can be discussed (but the emphasis will naturally change depending on the group and the exercise):
 
-- 'State of the art'
-- Model accuracy
-- Impact of prompt engineering
-- Testing output, validation
-- Sensitive data
-- Standardizing prompts
-- Transparency
+- 'State of the art': how well, and how safely, do we currently do this task?
+- Model accuracy: how can we measure, ideally quantitatively, the model's performance?
+- Impact of prompt engineering: how much variance is there when the prompt is changed?
+- Standardizing prompts: would it help to use a fixed, prescribed prompt for the task?
+- Testing output, validation: how could we check the model's responses in real time?
+- Sensitive data: how will we deal with personal or confidential information?
+- Transparency: how should we tell users and subjects about the role of AI in the task?
