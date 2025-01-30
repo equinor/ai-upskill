@@ -18,7 +18,7 @@ The arrival of generative AI, especially the release (or detonation?) of ChatGPT
 
 Let's look at `chat.equinor.com`. Has anyone **never** used this tool? Feel free to follow along.
 
-_At this point, you can check out the app, explain the **Information** page to people (plain ChatGPT, no Equinor information, infosec rules, etc), and give some examples. Or you can play [The Hallucination Game](./hallucination-game.md)._
+_At this point, you can check out the app, explain the **Information** page to people (plain ChatGPT, no Equinor information, infosec rules, etc), and give some examples. Or you can play [The Hallucination Game](../games/hallucination-game.md)._
 
 
 ## Resources
