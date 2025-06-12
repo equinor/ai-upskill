@@ -13,3 +13,8 @@ In each case, the following can be discussed (but the emphasis will naturally ch
 - Testing output, validation: how could we check the model's responses in real time?
 - Sensitive data: how will we deal with personal or confidential information?
 - Transparency: how should we tell users and subjects about the role of AI in the task?
+
+
+## License
+
+All content is &copy; Equinor / Matt Hall, and licensed [CC BY](https://creativecommons.org/licenses/by/4.0/), please re-use and re-mix.
