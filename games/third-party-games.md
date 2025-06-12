@@ -1,4 +1,4 @@
-# Thrid-party games
+# Third-party games
 
 Others have created machine learning and artificial intelligence games. Here are a few:
 
