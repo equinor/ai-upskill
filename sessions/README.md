@@ -57,6 +57,7 @@ We use a few different approaches:
   - Leader groups
   - Individuals
 
----
 
-&copy; 2024 Equinor | Licensed CC BY, please share this work.
+## License
+
+All content is &copy; Equinor / Matt Hall, and licensed [CC BY](https://creativecommons.org/licenses/by/4.0/), please re-use and re-mix.
