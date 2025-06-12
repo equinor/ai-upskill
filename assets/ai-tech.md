@@ -13,3 +13,7 @@ A series of social media posts about reliable physical technology being ruined b
 ### Got this awesome AI-powered watch ("It's time for AI!") for my birthday and it's actually pretty cool. I often know the approximate time.
 
 ![AI watch](./ai-tech-watch.png)
+
+### Lifehack! Started using this AI-powered calendar app tomorrow and I have way more time to myself now
+
+![AI calendar](./ai-tech-calendar.png)
