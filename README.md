@@ -1,4 +1,4 @@
-# ai-upskill-events
+# ai-upskill
 
 As part of our effort to upskill Equinor in artificial intelligence, our small team has run a few different events, workshops, presentations, etc. They are described in this repo.
 
