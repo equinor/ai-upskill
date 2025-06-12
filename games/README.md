@@ -2,7 +2,7 @@
 
 We have tried playing a few games in workshops:
 
-- [The Hallucination Game](./hallucinaton-game.md)
+- [The Hallucination Game](./hallucination-game.md)
 - [What Prompt](./what-prompt.md)
 - [Playing Games](playing-games.md) (needs some preparation)
 - [The Timeline Game](./timeline-game.md) (needs some preparation)
