@@ -17,6 +17,8 @@ We maintain a few other repos containing learning material related to machine le
 - [`promptly`](https://github.com/equinor/promptly) for more on prompting and pitfalls in generative AI.
 - [`llm-engineering-101`](https://github.com/equinor/llm-engineering-101) for a short workshop aimed at getting developers up to speed.
 - [`ml-pitfalls`](https://github.com/equinor/ml-pitfalls) for more on pitfalls in discriminative machine learning, another series of events.
+- [`ai-values`](https://github.com/equinor/ai-values) for a small web app about human values and AI alignment.
+- [`label-ai`](https://github.com/equinor/label-ai) for a small web app exploring obvious and non-obvious ways of labeling generated content.
 
 ---
 
