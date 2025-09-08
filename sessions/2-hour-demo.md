@@ -12,7 +12,7 @@ Hand something out at the start, eg some stickers, or a cheatsheet (see [the ass
 
 - **Fire safety** &mdash; observe that there are many things in the room that are designed to protect us from the risk of fire; AI is a potentially dangerous technology and we are still figuring out the safety measures we need. See also [the safety moment description](./safety-moment.md).
 - **Introduce self or selves**
-- **Mentimeter** &mdash; ask 3 short, relevant questions of the audience. The goal is to gauge how they feel about AI, their readiness level, and their level of enthusiasm or optimism. Consider hiding the results until most people have voted.
+- **Poll** &mdash; ask 3 short, relevant questions of the audience. The goal is to gauge how they feel about AI, their readiness level, and their level of enthusiasm or optimism. Consider hiding the results until most people have voted. Use Mentimeter or Microsoft Forms.
 - **What is AI?** &mdash; some big-picture context setting, best done on a whiteboard or in a drawing app (I used an iPad and cast to my laptop). I usually try to disambiguate ML and AI.
 - **Meet generative AI** &mdash; it's fun to start with a gentle introduction, eg Google's _Say What You See_ (see [third-party-games.md](../games/third-party-games.md)). It takes about 15 to 20 minutes, get people to call out their best score. Have a prize for the top score.
 - **More generative AI** &mdash; show people an AI chat application. Show a simple task, show sensitivity to the prompt, then a hallucination. A group exercise (10 mins): play [the hallucination game](../games/hallucination-game.md).
