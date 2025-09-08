@@ -6,11 +6,11 @@ The intended audience is semi-technical. This demo is not interactive.
 
 ## Agenda
 
-Hand something out at the start, eg some stickers, or a cheatsheet (see [this repo](https://github.com/equinor/ai-upskill-events)).
+Hand something out at the start, eg some stickers, or a cheatsheet (see [the `assets` folder](../assets)).
 
-- **Fire safety** &mdash; observe that there are many things in the room that are designed to protect us from the risk of fire; AI is a potentially dangerous technology and we are still figuring out the safety measures we need.
+- **Fire safety** &mdash; observe that there are many things in the room that are designed to protect us from the risk of fire; AI is a potentially dangerous technology and we are still figuring out the safety measures we need. Or see [`safety-moment.md`](./safety-moment.md)
 - **Introduce self**
-- **Mentimeter** &mdash; ask 3 short, relevant questions of the audience. The goal is to gauge how they feel about AI, their readiness level, and their level of enthusiasm or optimism. Consider hiding the results until most people have voted.
+- **Poll** &mdash; ask 3 short, relevant questions of the audience. The goal is to gauge how they feel about AI, their readiness level, and their level of enthusiasm or optimism. Consider hiding the results until most people have voted. Use Mentimeter or Microsoft Forms.
 - **What is AI?** &mdash; some big-picture context setting, best done on a whiteboard or in a drawing app (I used an iPad and cast to my laptop). I usually try to disambiguate ML and AI.
 - **Generative AI** &mdash; show people an AI chat application. Show a simple task, show sensitivity to the prompt, then a hallucination. Quick challenge (5 mins): audience can try to elicit a hallucination.
 - **Main demo** &mdash; I tend to dwell on hallucinations a bit, but you could also build some chat threads towards other topics, like few-shot prompting or RAG.
