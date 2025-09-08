@@ -10,7 +10,7 @@ Hand something out at the start, eg some stickers, or some other reminder of the
 
 - **Introduce self**
 - - **Safety moment** &mdash; use a chat app to introduce the basics of text-to-text, using a non-technical example. This should lead naturally to a hallucination, to underscore that the prompt changes the output, and that some outputs are wrong.
-- **Mentimeter** &mdash; ask 3 short, relevant questions of the audience. The goal is to gauge how they feel about AI, their readiness level, and their level of enthusiasm or optimism. Consider hiding the results until most people have voted.
+- **Poll** &mdash; ask 3 short, relevant questions of the audience. The goal is to gauge how they feel about AI, their readiness level, and their level of enthusiasm or optimism. Consider hiding the results until most people have voted. Use Mentimeter or Microsoft Forms.
 - **What is AI?** &mdash; some big-picture context setting, best done on a whiteboard or in a drawing app (I used an iPad and cast to my laptop). I usually try to disambiguate ML and AI. If the audience is non-technical, keep it very high level. For example, I highlight three aspects of AI: its goals (per the Dartmouth definition of John McCarthy), rule-based models (aka symbolic AI, eg Deep Blue, Siri), and machine learning (as the current paradigm). This leads naturally to ChatGPT and generative models.
 - Do something interactive, eg
   - **Current affairs** &mdash; If there's been something in the news, you could investigate that a bit. For example, did the US tariff programme really come from ChatGPT? Do LLMs really make up references and legal cases? 
