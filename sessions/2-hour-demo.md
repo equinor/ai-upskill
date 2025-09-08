@@ -8,7 +8,7 @@ It's a good idea to have 2 people presenting.
 
 ## Agenda
 
-Hand something out at the start, eg some stickers, or a cheatsheet (see [this repo](https://github.com/equinor/ai-upskill-events)).
+Hand something out at the start, eg some stickers, or a cheatsheet (see [the assets folder](../assets)).
 
 - **Fire safety** &mdash; observe that there are many things in the room that are designed to protect us from the risk of fire; AI is a potentially dangerous technology and we are still figuring out the safety measures we need. See also [the safety moment description](./safety-moment.md).
 - **Introduce self or selves**
