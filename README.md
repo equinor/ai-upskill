@@ -7,8 +7,7 @@ As part of our effort to upskill Equinor in artificial intelligence, our small t
 - [**Exercises**](./exercises/README.md) provides more structured learning activities.
 - [**Assets**](./assets) contains some other resources we use in workshops and other channels.
 
-We have been running these events since February 2024, and will continue to develop the program throughout 2025.
-
+We have been running these events since February 2024, and will continue to develop the program as the technology and our understanding of it evolve.
 
 ## See also
 
