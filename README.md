@@ -21,4 +21,4 @@ We maintain a few other repos containing learning material related to machine le
 
 ---
 
-&copy; 2024–2025 Equinor, AI Upskill | Licensed CC BY, please share this work.
+&copy; 2024–2026 Equinor, AI Upskill | Licensed CC BY, please share this work.
