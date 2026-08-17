@@ -3,6 +3,7 @@
 We have tried playing a few games in workshops:
 
 - [The Hallucination Game](./hallucination-game.md)
+- [AI Risk Roulette](./risk-roulette.md)
 - [What Prompt](./what-prompt.md)
 - [Playing Games](playing-games.md) (needs some preparation)
 - [The Timeline Game](./timeline-game.md) (needs some preparation)
